@@ -777,7 +777,6 @@ flowchart LR
 ```
 """
     )
-    st.info("比赛讲解重点：这里用轻量 Prompt Routing 做出 Multi-Agent 感，并把大学生攒钱、消费管控、冲动消费和入门理财串成完整闭环。")
 
 
 def main():
